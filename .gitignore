@@ -1,0 +1,41 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+thumbs.db
+desktop.ini
+
+# Temporary files and caches
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Large temporary video / image render files & exports
+*.mp4
+*.mov
+*.avi
+*.webm
+*.raw
+*.psd
+*.ai
+*.sketch
+*.blend
+*.blend1
+/renders/
+/temp_renders/
+/exports/
+
+# Logs & Environment
+*.log
+.env
+.env.local
+
+# IDE & Editor metadata
+.vscode/
+.idea/
