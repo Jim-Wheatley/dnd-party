@@ -1,46 +1,36 @@
-# Scene Prompt: The Climax at the Frozen Amphitheater
+# Scene Prompt: The Climax at the Frozen Amphitheater (Ostranoff Edition)
 
 **File:** `prompts/prompt-frozen-amphitheater-climax.md`  
-**Purpose:** Double-page spread high-fantasy painting of the DC 30 performance chant that averted party disaster at the cliffside pool, including the complete companion lineup and their distinct reactions.  
-**Style Standard:** Adheres strictly to `art-style-guide.md` and the `vintage-dnd-art` skill.
+**Purpose:** Double-page spread high-fantasy oil painting of Pantraal's DC 30 performance chant beneath the frozen temporal lightning bolt, soothing the sleeping Ostranoff blocking the drowned marble shaft.  
+**Style Standard:** Adheres strictly to `art-style-guide.md` and the `vintage-dnd-art` skill (1980s TSR Masters Edition).
 
 ---
 
 ## 📋 AI Generation Prompt
 
-```text
-Follow the prompt construction rules from the vintage-dnd-art skill and art-style-guide.md.
+1. Medium & Print Header (MANDATORY):
+1983 TSR Dungeons & Dragons module cover illustration, traditional oil and gouache painting on textured illustration board by Larry Elmore, Keith Parkinson, and Jeff Easley. Authentic 1980s offset lithograph print scan with subtle paper tooth, muted earthy underpainting in burnt umber and slate blue, chalky matte finish, and heavy dry-brush scumbling on weathered stone and sea spray.
 
-Subject & Scene Composition (drawn from characters/halfling-rogue-arcane-trickster-pantral.md, characters/human-ranger-druid-baldan.md, characters/dwarf-fighter-paladin-camdyn.md, characters/half-elf-sorcerer-warlock-elios.md, characters/human-bard-tahner.md, and campaign session lore):
-A double-page spread high-fantasy oil illustration of an open-air cliffside amphitheater carved of white marble overlooking a dark churning ocean tempest.
+2. Candid Composition & Chiaroscuro Lighting:
+A dramatic wide double-page spread composition of an open-air cliffside amphitheater carved of concentric white-and-gray marble rings overlooking a turbulent ocean tempest. High-contrast chiaroscuro lighting: a single, frozen spear of lightning crackling from dark storm clouds provides dramatic key light from above, while 40-50% of the arena floor, outer tiers, and crashing waves fall into murky burnt-umber and deep slate-indigo shadows. Lost-and-found painterly edges where damp cloaks and stone steps merge into creeping sea mist. Candid narrative staging—nobody looks at the camera.
 
-- Center Stage:
-  - Pantraal Y Galdas (characters/halfling-rogue-arcane-trickster-pantral.md), halfling arcane trickster, delivering his triumphant DC 30 performance chant.
-  - Chest puffed out, head tilted back in theatrical bliss, dark brown mustache bristling.
-  - Wearing tailored turquoise studded leathers with orangey-gold trim and an oversized turquoise hat with a prominent orangey-gold feather; faint blue-white static electricity arcs dance across his hands.
-  - SCALE ANCHOR: Strictly halfling-proportioned, waist-high to human companions.
+3. The Suspended Temporal Hazard & The Ostranoff:
+- High above, a jagged bolt of lightning hangs suspended, completely frozen motionless mid-strike, pointing straight down into a sunken circular pool in the arena floor.
+- The Sunken Pool & Architecture: The pool is framed by intricate concentric circular rings carved into pale marble pavement. 
+- The Ostranoff: Curled asleep deep in the dark water of the flooded shaft is the massive coiled body of an Ostranoff—a colossal, limbless, wingless flying worm. It has no arms, legs, or wings; its enormous, thick serpentine body is covered in textured, mossy olive-green leathery hide, resting in a deep dormant coil with its cavernous circular maw resting submerged against the flooded stone floor.
 
-- Suspended Temporal Hazard:
-  - High in the upper sky, a brilliant jagged bolt of lightning hangs frozen motionless in mid-air, pointing straight down into a circular dark stone pool in the amphitheater floor.
-  - Curled asleep deep beneath the dark waters of the pool is the coiled silhouette and sea-green scaled back of a sleeping dragon blocking the tunnel.
+4. Subjects & Grounded Anatomical Realism:
+- Center Stage (Pantraal Y Galdas): Flamboyant halfling arcane trickster delivering his transcendent performance chant before the pool. One foot set forward, head tilted back in theatrical ecstasy, one hand over his chest. Large, lustrous, groomed dark brown handlebar mustache upturned. CRITICAL SCALE & PROPORTIONS: Strictly miniature halfling stature (under 3 feet tall, waist-high to human companions); realistic adult facial proportions, small realistic eyes, weathered skin texture—no oversized head, no cartoon caricature, no Pixar expressions. Wears muted slate-turquoise weathered suede leathers with antique ochre trim and an oversized turquoise cavalier hat with an antique ochre feather.
+- Witnesses & Candid Reactions (Staged Across Depth Planes):
+  - Baldan Zumfaren & Yer Bastid: Human ranger in a battered brown leather slouch hat and scuffed dark oilskin duster, bushy copper beard, standing beside his massive brindle mastiff hound (Yer Bastid stands waist-high to Baldan), rubbing his ringing ear in stunned, tearful awe.
+  - Camdyn à Adair: Barrel-chested mountain dwarf in an open-faced steel kettle helmet and dripping wet armor, his sandy-brown beard marked by a stark white central streak, holding his hands to his deafened ears in softened disbelief.
+  - On the Tiered Marble Steps (Background):
+    - Tânher the Elder: Elderly tribal bard with wild snow-white hair and beard, wrapped in a pale fur mantle, leaning heavily on his gnarled runic quarterstaff with jaw dropped in rare, stunned, begrudging disbelief at the sheer perfection of Pantraal's song.
+    - Elios: Half-elf sorcerer/warlock watching from the upper marble shadows in a deep forest-green hood, his mutated luminous emerald eye catching the storm light.
+  - The Voiceless Maiden: A young woman in simple, drenched white robes sitting peacefully at the pool edge, watching serenely as her sacred song is finally delivered.
 
-- Witnesses & Reactions:
-  - Tânher the Elder (characters/human-bard-tahner.md): The grumpy, arrogant elder bard with long flowing white hair and bushy beard, wrapped in his pale fur-trimmed tribal mantle. Leaning heavily on his ancient gnarled fighting staff, mouth agape and eyebrows raised in rare, genuine shock and begrudging disbelief at the sheer artistic brilliance of Pantraal's singing—unable to find a single flaw to mock.
-  - Baldan Zumfaren & Yer Bastid (characters/human-ranger-druid-baldan.md): Baldan in his battered brown slouch hat and long trail duster stands beside his massive brindle mastiff Yer Bastid, rubbing his deafened ear in bewildered awe with a single tear in his eye.
-  - Camdyn à Adair (characters/dwarf-fighter-paladin-camdyn.md): Barrel-chested mountain dwarf in an open-faced kettle helmet, dripping wet armor, rubbing his ringing ears with a stunned, softened expression on his stern face.
-  - Elios (characters/half-elf-sorcerer-warlock-elios.md): Half-elf sorcerer/warlock watching quietly from the marble tiers in a deep green hood, his signature emerald eye pulsing with faint luminescence.
-  - The Voiceless Maiden: A young woman in simple white robes sitting silently at the pool edge, watching peacefully as her song is finally sung.
+5. Pigment-Based Magic & Gear:
+Lived-in, scuffed materials with matte metallic wear. The suspended lightning bolt and the faint static sparks dancing on Pantraal's fingertips are rendered purely with opaque chalk-white and pale-yellow oil paint brushstrokes with a soft feathered airbrush halo—no sharp digital fractal lightning overlays, no neon post-process bloom.
 
-Style (Mandatory from art-style-guide.md & vintage-dnd-art skill):
-Vintage 1980s TSR D&D rulebook illustration, dramatic fantasy oil painting on canvas, visible layered brushstrokes and dry-brush scumbling, rich matte finish, dramatic storm lighting illuminated by the frozen lightning bolt, palette of deep ocean blues, stormy grays, weathered white marble, and turquoise leathers, hand-painted in the style of Larry Elmore and Jeff Easley.
-
-Negative / Avoid (Mandatory from art-style-guide.md):
-Avoid: digital 3D render, CGI, glossy plastic skin, modern video game splash art, hyper-shiny reflections, neon lens flare, smooth digital airbrush, modern anime aesthetic.
-```
-
----
-
-## ⚙️ Recommended Generation Settings
-* **Aspect Ratio:** `16:9` or `3:2` (Double-Page Centerpiece Spread)
-* **Model:** Imagen 3 / Midjourney v6 (`--ar 16:9 --style raw`)
-* **Intended Output Filepath:** `assets/key_moments/frozen-amphitheater-performance.png`
+6. Negative / Avoid Keywords (MANDATORY):
+Avoid: winged dragon, dragon limbs, modern digital painting, Dungeons & Dragons 5e concept art, Hearthstone style, oversized heads, Pixar or cartoon expressions, big eyes, looking at the camera, flat even studio lighting, crisp dark outlines, digital fractal lightning overlays, glossy satin leather, mirror-chrome reflections, CGI, Unreal Engine.
